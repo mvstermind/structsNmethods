@@ -5,3 +5,4 @@ i don't understand:
 - what exaclty are methods and how to use em
 - wtf i'll be doin
 
+so i'll do simple inventory managment system just to play with this crapppp
